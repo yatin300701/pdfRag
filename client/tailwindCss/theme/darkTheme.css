@@ -1,0 +1,19 @@
+.dark {
+  --color-background: #121212;
+  --color-surface: #1e1e1e;
+  --color-text-primary: #f3f4f6;
+  --color-text-secondary: #9ca3af;
+  --color-border: #374151;
+  --color-accent: #60a5fa;
+  --color-error: #f87171;
+  --color-success: #4ade80;
+  --color-warning: #fbbf24;
+  --color-info: #38bdf8;
+  --color-link: #93c5fd;
+  --color-navbar: #1f2937;
+  --color-footer: #111827;
+  --color-overlay: rgba(255, 255, 255, 0.1);
+  --color-disabled: #4b5563;
+  --color-input-background: #1f2937;
+  --color-input-border: #374151;
+}
